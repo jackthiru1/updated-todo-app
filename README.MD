@@ -2,24 +2,6 @@
 
 A simple ToDo application built using Node.js, Express, and MongoDB Atlas.
    
-    Main Page:
-        Header: Display the title "To-Do App".
-        Task input form:
-            Input field: Users can enter a new task.
-            Add button: Users can submit the new task.
-        Task list:
-            Each task item displays the task description.
-            Edit button: Opens the Edit page for the specific task.
-            Delete button: Deletes the specific task.
-
-    Edit Page (edit-task.js):
-
-        Header: Display the title "Edit Task".
-        Edit form:
-            Input field: Displays the current task description, allowing users to modify it.
-            Update button: Users can submit the updated task.
-        Back button: Navigates back to the Main page.
-
 The main functionality of your app is as follows:
 
 Users can add tasks on the Main Page by entering a task description and clicking the Add button.
